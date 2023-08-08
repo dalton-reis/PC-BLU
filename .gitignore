@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+!fontes/M13.EXE
